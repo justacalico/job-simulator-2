@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.1.1 - 2026-11-15
+#### Bug Fixes
+- 跳过无版本变更时的发布 - (d72b969) - HttpAnimations
+
+- - -
+
 ## v0.1.0 - 2026-11-15
 #### Features
 - Blender 生成的 3D 资源与预览图 - (d0a6a79) - HttpAnimations
